@@ -1,0 +1,127 @@
+<?xml version="1.0" standalone="no" ?><manifest identifier="com.scorm.elucidat.build.670d3651e8bf8_1728919218" version="1"
+    xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+    xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:lom="http://ltsc.ieee.org/xsd/LOM"
+    xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                       http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd
+                       http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd
+                       http://ltsc.ieee.org/xsd/LOM lom.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+      </metadata>
+  <!-- There is just one organization. The organization contains just one item.-->
+    <organizations default="elucidat_670d3651e8bf8_1728919218">
+        <organization identifier="elucidat_670d3651e8bf8_1728919218">
+            <title>Setting up an Influencing Strategy    </title>
+            <item identifier="item_670d3651e8bf8_1728919218" identifierref="resource_670d3651e8bf8_1728919218">
+                <title>Setting up an Influencing Strategy    </title>
+                <adlcp:masteryscore>80</adlcp:masteryscore>
+            </item>
+        </organization>
+    </organizations>
+    <resources>
+        <resource identifier="resource_670d3651e8bf8_1728919218" type="webcontent" adlcp:scormtype="sco" href="launch.html">
+           <file href="assets/8c17653ab2817fe427734c94ee6647dd.png"/>
+           <file href="assets/dda95160ab8c8899a904b6b917c3c851.png"/>
+           <file href="assets/4d601b203a9d1b4f6ee1ff7f7c750895.png"/>
+           <file href="assets/670d3651e8bf8.css"/>
+           <file href="assets/9952783698d2359a4d7971ed25f54226.png"/>
+           <file href="assets/3a719395633539c39eda13318ceafdb9.png"/>
+           <file href="assets/e81b1e6c45df9470b43b71bbc749302b.jpg"/>
+           <file href="assets/7e0dc13c55860087729ee386f5eb31ec.png"/>
+           <file href="assets/12fa4fc878f64c3e499c8ad03a693275.png"/>
+           <file href="assets/0dcde01c97a6a4bb0e3a6b0359ef5404.png"/>
+           <file href="assets/e698099894c8bf4d1642c9a50f5f7049.png"/>
+           <file href="assets/c5ee167f6c5dc9562dcdc2483e5715c4.png"/>
+           <file href="assets/791fa1b173bd26125352750646da770d.png"/>
+           <file href="assets/1861632d155857e401f340fc5fd7f4e3.png"/>
+           <file href="assets/7f5d2ae998aa375f4d814274e8ec20af.png"/>
+           <file href="assets/4a176035589b39a6a3f242b5e328efaa.png"/>
+           <file href="assets/c671dbd2032399162954d24f6e369095.jpg"/>
+           <file href="assets/d8076ae5fb4029d35d7542a73e66c177.png"/>
+           <file href="assets/670d3651e8bf8.js"/>
+           <file href="assets/21ffda56dccc291a98fa9593144f4ac9.png"/>
+           <file href="assets/1e43056cb671e38b468c0fd6adb21376.png"/>
+           <file href="assets/aca05e616654fb62a8ff68c1a6e854d3.jpg"/>
+           <file href="launch.html"/>
+           <file href="pages/6649f8d78e63d.js"/>
+           <file href="pages/664a0690e3807.js"/>
+           <file href="pages/6649f81ad70fd.js"/>
+           <file href="pages/6649f7dd8d5f0.js"/>
+           <file href="pages/6649f785544e8.js"/>
+           <file href="pages/6649f7fb73805.js"/>
+           <file href="pages/6649f84b1b135.js"/>
+           <file href="pages/6649f7bb7fa44.js"/>
+           <file href="pages/6649f8ccf0a47.js"/>
+           <file href="pages/6649f7caa8a82.js"/>
+           <file href="pages/6649f8285a40c.js"/>
+           <file href="pages/6649f8a20d26c.js"/>
+           <file href="pages/6649f7b0a541e.js"/>
+           <file href="pages/6649f80b30faf.js"/>
+           <file href="pages/6649f87cd56bd.js"/>
+           <file href="pages/6649f88d93bd3.js"/>
+           <file href="pages/6649f834e6b73.js"/>
+           <file href="login.html"/>
+           <file href="vendor/elucidat-v2.0.min.css"/>
+           <file href="vendor/DrQ1TubjjTxZtHjYFwCXIAeF-450i.woff"/>
+           <file href="vendor/uLx5YzUJg9_4thUKkqv4mgeF-400.woff2"/>
+           <file href="vendor/style-editcontrols.build.min.css"/>
+           <file href="vendor/preview_commenting.build.min.js"/>
+           <file href="vendor/uLx5YzUJg9_4thUKkqv4mgeF-400.ttf"/>
+           <file href="vendor/jquery.xdr.js"/>
+           <file href="vendor/hW0ifqa3JCvizca7X7smBweF-400.svg#11d98ce622e2ced37a8c200f5d341402"/>
+           <file href="vendor/uLx5YzUJg9_4thUKkqv4mgeF-400.eot"/>
+           <file href="vendor/hW0ifqa3JCvizca7X7smBweF.css"/>
+           <file href="vendor/material/icomoon.svg"/>
+           <file href="vendor/material/icomoon.woff"/>
+           <file href="vendor/material/icomoon.ttf"/>
+           <file href="vendor/material/icomoon.eot"/>
+           <file href="vendor/placeholder-image.png"/>
+           <file href="vendor/bootstrap/glyphicons-halflings.png"/>
+           <file href="vendor/bootstrap/fontawesome-webfont.svg"/>
+           <file href="vendor/bootstrap/fontawesome-webfont.woff2"/>
+           <file href="vendor/bootstrap/fontawesome-webfont.ttf"/>
+           <file href="vendor/bootstrap/fontawesome-webfont.woff"/>
+           <file href="vendor/bootstrap/fontawesome-webfont.eot"/>
+           <file href="vendor/bootstrap/glyphicons-halflings-white.png"/>
+           <file href="vendor/hW0ifqa3JCvizca7X7smBweF-400.woff2"/>
+           <file href="vendor/5gR5cOmwWdaf8KQVNTkOzgeF-700.svg#bf17b9ca83d9344498b7a6ffc0b361ba"/>
+           <file href="vendor/modernizr-2.6.2.min.js"/>
+           <file href="vendor/mediaelement/background.png"/>
+           <file href="vendor/mediaelement/controls.png"/>
+           <file href="vendor/mediaelement/controls-wmp-bg.png"/>
+           <file href="vendor/mediaelement/controls-ted.png"/>
+           <file href="vendor/mediaelement/controls.svg"/>
+           <file href="vendor/mediaelement/mediaelement-and-player.min.js"/>
+           <file href="vendor/mediaelement/loading.gif"/>
+           <file href="vendor/mediaelement/bigplay.png"/>
+           <file href="vendor/mediaelement/bigplay.svg"/>
+           <file href="vendor/mediaelement/controls-wmp.png"/>
+           <file href="vendor/typicon/icomoon.svg"/>
+           <file href="vendor/typicon/icomoon.woff"/>
+           <file href="vendor/typicon/icomoon.ttf"/>
+           <file href="vendor/typicon/icomoon.eot"/>
+           <file href="vendor/fontawesome/icomoon.svg"/>
+           <file href="vendor/fontawesome/icomoon.woff"/>
+           <file href="vendor/fontawesome/icomoon.ttf"/>
+           <file href="vendor/fontawesome/icomoon.eot"/>
+           <file href="vendor/DrQ1TubjjTxZtHjYFwCXIAeF-450i.ttf"/>
+           <file href="vendor/DrQ1TubjjTxZtHjYFwCXIAeF.css"/>
+           <file href="vendor/hW0ifqa3JCvizca7X7smBweF-400.woff"/>
+           <file href="vendor/DrQ1TubjjTxZtHjYFwCXIAeF-450i.eot"/>
+           <file href="vendor/DrQ1TubjjTxZtHjYFwCXIAeF-450i.woff2"/>
+           <file href="vendor/5gR5cOmwWdaf8KQVNTkOzgeF-700.ttf"/>
+           <file href="vendor/hW0ifqa3JCvizca7X7smBweF-400.eot"/>
+           <file href="vendor/5gR5cOmwWdaf8KQVNTkOzgeF-700.woff"/>
+           <file href="vendor/uLx5YzUJg9_4thUKkqv4mgeF-400.woff"/>
+           <file href="vendor/hW0ifqa3JCvizca7X7smBweF-400.ttf"/>
+           <file href="vendor/5gR5cOmwWdaf8KQVNTkOzgeF-700.eot"/>
+           <file href="vendor/DrQ1TubjjTxZtHjYFwCXIAeF-450i.svg#7447332f38fa5b3f4e5f05bc6457fc8b"/>
+           <file href="vendor/5gR5cOmwWdaf8KQVNTkOzgeF-700.woff2"/>
+           <file href="vendor/elucidat-v5.4.min.js"/>
+           <file href="vendor/uLx5YzUJg9_4thUKkqv4mgeF-400.svg#9ceba1d0a471d1ba00af7c697ccd0b68"/>
+        </resource>
+    </resources>
+</manifest>

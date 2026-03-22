@@ -1,0 +1,10 @@
+@font-face {
+font-weight: 400;
+    font-family: 'Oxfam Global Headline';
+    src: url('../vendor/hW0ifqa3JCvizca7X7smBweF-400.eot');
+    src: url('../vendor/hW0ifqa3JCvizca7X7smBweF-400.eot') format('embedded-opentype'),
+         url('../vendor/hW0ifqa3JCvizca7X7smBweF-400.woff2') format('woff2'),
+         url('../vendor/hW0ifqa3JCvizca7X7smBweF-400.woff') format('woff'),
+         url('../vendor/hW0ifqa3JCvizca7X7smBweF-400.ttf') format('truetype'),
+         url('../vendor/hW0ifqa3JCvizca7X7smBweF-400.svg#11d98ce622e2ced37a8c200f5d341402') format('svg');
+}
